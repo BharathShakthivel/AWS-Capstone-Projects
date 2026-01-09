@@ -47,3 +47,6 @@ This project demonstrates a **fully automated, cloud-native log monitoring and a
 2. Install dependencies: `pip3 install boto3 pandas matplotlib`
 3. Run the analytics script: `python3 query_logs.py`
 4. Check generated chart at `/home/ec2-user/error_trends.png`
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 9, 2026, 10_10_08 PM" src="https://github.com/user-attachments/assets/78eab59b-a960-4c31-8327-fb4ced096103" />
